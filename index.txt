@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>web XYZDRAGON</title>
+</head>
+<body bgcolor="white">
+<img src="file:///C:/Users/Sergio%20Lozano/Desktop/permiso/4231CZI.png" height="650px" widht="750px">
+</body>
+</html>
